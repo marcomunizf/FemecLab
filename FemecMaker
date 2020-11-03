@@ -1,0 +1,220 @@
+Projetos para Criação do Laboratório FEMECMaker no campus Glória da UFU
+
+
+RESUMO: Considerado uma extensão da filosofia “Do It Yourself!”, o movimento da cultura maker apresenta a ideia de que qualquer pessoa consegue construir, consertar ou criar seus próprios objetos. Com a revolução digital e a facilidade de acesso aos recursos tecnológicos, essa ideia vem tomando conta de um grande número de pessoas interessadas em criar e compartilhar projetos pautados pela tecnologia. Nessa tendência, este projeto propõe a criação do Laboratório FEMECMaker no campus Glória da UFU para fortalecer a cultura “learning by doing” nas diversas atividades de ensino, pesquisa e extensão realizadas e planejadas no campus. A criação deste espaço proporcionará às comunidades interna e externa ao campus acesso a tecnologias que auxiliam na prototipagem e criação de soluções em inovação, bem como contribuir com o desenvolvimento regional de Uberlândia e triângulo mineiro.
+
+Palavras-chave: FEMECMaker, “learning by doing”; prototipagem rápida; inovação tecnológica; empreendedorismo.
+
+1. INTRODUÇÃO: 
+1.1. Cultura maker como instrumento de aprendizagem: “Learning by doing”
+A era tecnológica trouxe consigo a necessidade da inovação, o que causou impactos em diversos segmentos e originou o movimento envolvido no conceito do “DIY” (do inglês, “do it yourself”), que significa “faça você mesmo” e essa cultura deu origem à cultura maker, cujo objetivo é introduzir o aluno na prática, ao contrário do modelo que é centrado na teoria, cujo qual ainda está presente na maioria das escolas. A cultura maker pode ser aplicada em laboratórios, na sala de aula, em casa durante as tarefas da escola, entre muitas outras situações. Para implantar é necessário um planejamento para atingir os reais objetivos. 
+A metodologia possui uma fase de introdução, depois a experimentação, seguida pela prototipagem - termo usado para se referir a tecnologias usadas para fabricar objetos físicos - e por fim, os feedbacks. 
+O processo acontece de forma natural e é como se a criança ou o adolescente soubesse exatamente o que tem que fazer. É uma forma de empoderar os estudantes apresentando a eles uma infinidade de possibilidades no ambiente de aprendizagem.
+Um dos principais impactos da cultura maker é a democratização do conhecimento e a agilidade na confecção de produtos. Por décadas, as informações eram restritas e a indústria ditava as regras da produção e da comercialização de qualquer bem.
+Com os meios digitais, o acesso às informações ampliou-se profundamente e esse cenário se inverteu: quem passou a ditar as regras dos negócios foi o consumidor. Além disso, com a revolução digital, equipamentos de alto custo foram barateados e as microempresas passaram a ter competitividade ao proporcionarem soluções criativas.
+Sendo assim, esta proposta busca aliar as potencialidades da cultura “learning by doing” com a criação do Laboratório FEMECmaker, um ambiente de projeto e construção de objetos e soluções através de ferramentas de prototipagem rápida, capaz de atender as demandas internas e externas, por meio de projetos de extensão.
+
+1.2. Histórico da FEMEC
+O Departamento de Engenharia Mecânica - DEEME existe desde 1968, como decorrência da criação e do início de funcionamento da Faculdade Federal de Engenharia de Uberlândia - FFEU, que foi posteriormente incorporada à Universidade de Uberlândia - UNU. Após a federalização da UNU, que a transformou em Universidade Federal de Uberlândia - UFU, o Departamento ficou vinculado ao Centro de Ciências Exatas e Tecnologia - CETEC.
+O então DEEME começou a se reestruturar a partir de 1980, com o retorno de seus primeiros professores que se capacitaram em cursos de aperfeiçoamento, mestrado e doutorado. O ponto alto nesta fase foi a prática da pesquisa como atividade rotineira. O maior resultado na época foi, após uma importante participação dos docentes do DEEME no VI Congresso Brasileiro de Engenharia Mecânica - COBEM 81, ter sido o Departamento escolhido para organizar o COBEM 83, fato que foi responsável pelo seu reconhecimento nacional como Núcleo de qualidade em ensino e pesquisa na área.
+Paralelamente, vários projetos de pesquisa financiados pelo CNPq, pela STI/MIC, pelo FIPEC, FINEP, CAPES e FAPEMIG, entre outros, tornaram possível criar a infraestrutura básica dos laboratórios de ensino e de pesquisa. Como o avanço tecnológico exige cada vez mais trabalhos com conhecimentos interdisciplinares, o DEEME continuou na década de 80 com o seu plano de capacitação docente em cursos de pós-graduação, e promoveu a contratação de novos profissionais com titulação de doutorado, para atuarem nas diversas áreas da engenharia mecânica.
+Como fruto deste esforço inicial, o DEEME iniciou a década de 90 com um corpo de professores altamente qualificado, organizados em oito Grupos de Pesquisa cadastrados no CNPq:
+1* Grupo de Dinâmica de Sistemas Mecânicos 
+2* Grupo de Projeto de Sistemas Mecânicos
+3* Grupo de Pesquisa em Usinagem
+4* Grupo Pesquisa em Soldagem
+5* Grupo de Pesquisa em Usinagem não convencional.
+6* Grupo de Transferência de Calor e Massa
+7* Grupo de Simulação e Otimização de Armazenadores Térmicos
+8* Grupo de Pesquisa em Energia e Dinâmica dos Fluídos.
+Desde sua criação, ainda dentro da estrutura organizacional da UNU, o DEEME foi responsável pela execução do projeto do Curso de Graduação em Engenharia Mecânica, que funcionava em regime anual e seriado.
+Com o avanço nas atividades de ensino, pesquisa e extensão, após a federalização, foi necessário definir uma estrutura organizacional do DEEME. Dessa forma, consciente de que o eficiente desenvolvimento da pesquisa e da extensão pressupõe que os pesquisadores, técnicos e os recursos de infraestrutura de laboratórios sejam organizados em grupos que tenham afinidade de linhas de atuação. A estrutura organizacional foi dividida em três grandes áreas que eram responsáveis pelo planejamento e pelo desenvolvimento da pesquisa e da extensão nas linhas de pesquisa caracterizadas pelas especialidades de seu pessoal docente e técnico. Os docentes alocados nas áreas atendiam os Cursos de Graduação e Pós-Graduação em Engenharia Mecânica e disciplinas afins de outros cursos da UFU.
+As três áreas eram:
+1* Dinâmica e Projetos: constituído a partir do Grupo de pesquisa em Dinâmica de Sistemas Mecânicos e do Grupo de Projeto de Sistemas Mecânicos do DEEME.
+2* Térmica e Fluidos: constituído a partir do Grupo de Transferência de Calor e Massa, do Grupo de Simulação e Otimização de Armazenadores Térmicos e do Grupo de Pesquisa em Energia e Dinâmica dos Fluídos do DEEME.
+3* Fabricação: constituído a partir do Grupo de Pesquisa em Usinagem, do Grupo Pesquisa em Soldagem e do Grupo de Pesquisa em Usinagem não convencional do DEEME.
+Após consolidar a formação de seu corpo docente, atingir um nível de excelência no curso de graduação ministrado, exercer atividades de pesquisa com elevado conteúdo científico, desenvolver tecnologia, e praticar a extensão em benefício do ensino e da pesquisa, foi implantado o Curso de Mestrado em Engenharia Mecânica na Universidade Federal de Uberlândia, criado pela Resolução 09/84 do Conselho Universitário da UFU em 26 de setembro de 1984, com suas atividades tendo início em março de 1985. O projeto do Curso foi encaminhado à CAPES para análise do Grupo Técnico Consultivo - GTC, ainda em 1984, tendo sido recomendado para o apoio das agências financiadoras. Assim, desde o início de seu funcionamento, o Curso tem recebido quota de bolsas do Programa de Demanda Social da CAPES e do CNPq, além de estar autorizado a receber bolsistas do PICD. O Curso participou, em 1985, do Programa de Recuperação da Capacidade Instalada de Pesquisa no país, o que permitiu consolidar alguns laboratórios que lhe dão suporte.
+Com base nos grupos de pesquisa do DEEME e de Professores colaboradores de outros departamentos da UFU o Mestrado em Engenharia Mecânica foi criado em três áreas de concentração, a saber:
+* Mecânica dos Sólidos e Vibrações
+* Transferência de Calor e Mecânica dos Fluidos
+* Materiais e Processos de Fabricação
+As atividades de pesquisa científica e tecnológica do DEEME eram, então, organizadas em linhas de pesquisa que agregavam grupos de pesquisadores, alunos de pós-graduação, técnicos e alunos de graduação com um forte vínculo com o Programa de Pós-Graduação. As linhas de pesquisa existentes eram:
+1. Linha de pesquisa em Dinâmica de Sistemas Mecânicos. Temas tratados nesta linha: Comportamento Dinâmico de Sistemas Mecânicos (Desenvolvimento de métodos analíticos, computacionais e experimentais de modelagem, simulação, otimização, instrumentação, medição e tratamento digital de sinais, aplicados na identificação estatística e paramétrica e no projeto otimizado de sistemas mecânicos); Vibrações e Acústica (Desenvolvimento de metodologias analítico-computacionais e experimentais para a análise e o controle de vibrações e de ruído em sistemas mecânicos lineares e não lineares utilizando técnicas de análise modal e de identificação paramétrica); Instrumentação Mecatrônica e Análise de Sinal (Desenvolvimento de sistemas integrados de medição de grandezas físicas e metodologias de aquisição, tratamento estatístico e análise de sinais nos domínios do tempo e da frequência, com aplicação em dinâmica e controle de sistemas mecânicos); Robótica e Automação (Desenvolvimento de robôs e mecanismos de estrutura serial e paralela, compostos por corpos rígidos e flexíveis, via modelagem geométrica, cinemática e dinâmica, simulação, análise de interferência, otimização e controle, visando a automação da produção).
+2. Linha de pesquisa em Projeto de Sistemas Mecânicos. Temas tratados nesta linha: Análise Experimental de Tensões/Deformações (Estudo da distribuição das tensões/deformações em estruturas usando técnicas experimentais como fotoelasticidade bi e tridimensional, camada fotoelástica de reflexão, extensometria, camada frágil e Moire, visando a otimização e definição de parâmetros de componentes e estruturas); Comportamento Mecânico dos Materiais (Identificação do comportamento mecânico de materiais metálicos e não metálicos quanto ao seu regime elástico, plástico, viscoplástico e de danos, visando a determinação de suas propriedades para aplicações em projetos); Sistemas Estruturais (Aplicação de técnicas computacionais tais como elementos finitos e de contorno na solução de problemas estruturais através de simulações numéricas bem como monitorar e complementar a análise dos resultados obtidos por técnicas experimentais); Biomecânica (Interagir de forma interdisciplinar com as diferentes áreas biomédicas na busca de soluções compartilhadas para os problemas, envolvendo materiais e técnicas na mecânica/odontologia e mecânica/ortopedia).
+3. Linha de pesquisa em Usinagem. Temas tratados nesta linha: estudar a fenomenologia do processo de corte envolvendo a formação do cavaco, controle do cavaco, forças de usinagem, temperatura de corte, mecanismos de desgastes de ferramentas de corte, integridade superficial, formação de rebarbas. Realizar ensaios de usinabilidade. Otimizar os processos de usinagem. Estudar os efeitos da lubrificação e refrigeração na usinagem. Estudo do fenômeno, performances de fluidos, método de aplicação, incluindo pulverização e alta pressão. Monitoramento do desgaste de ferramentas e do acabamento superficial. Analisar a sensibilidade de parâmetros nas grandezas do processo de corte e Modelagem dos processos de corte.
+4. Linha de pesquisa em Soldagem. Temas tratados nesta linha: Desenvolvimento da tecnologia de processos com corrente pulsada (MIG e TIG pulsados) e processos de alta energia (Plasma), através da seleção otimizada de parâmetros de soldagem de vários materiais (aço, alumínio e inox) e processos (TIG e MIG pulsados e plasma), visando a elaboração de um banco de dados para subsidiar impressão na melhoria na qualidade de produtos soldados; Desenvolvimento e aprimoramento de dispositivos e acessórios aplicáveis em soldagem tais como projeto e construção de monitores de soldagem, mesa de coordenadas XY computadorizada para corte, mesa de coordenadas XYZ computadorizada para solda, interface para soldagem MIG a ponto, controlador de comprimento de arco (AVC) e um simulador de soldagem manual; Monitoração, controle e automação de processos e procedimentos de soldagem com o desenvolvimento e testes de metodologias para melhorar a qualidade de soldagem, melhoria de produtos, processos e técnicas de soldagem aplicados em soldagem de manutenção (revestimentos contra desgaste e corrosão, soldagem de Alumínio. ferro fundido, etc).
+5. Linha de pesquisa em Usinagem não Tradicional. Temas tratados nesta linha: usinagem por descargas elétricas (DEM), usinagem eletroquímica (ECM), retificação eletroquímica (ECG), usinagem por plasma e usinagem por ultra-som, estudando resíduos de usinagem, desenvolvendo ferramental e metodologias para controlar o processo e definir condições ótimas de  operação. Estudo da integridade superficial de aços rápidos usinados por ECM, EDM, e ECG e os efeitos da adição de pós e de dielétricos no processo EDM. Estudo da usinabilidade de aços duros e superligas. Desenvolvimento de projetos de equipamentos de usinagem não tradicional para atender necessidades específicas da indústria tais como retificação centerless, corte e acabamento de materiais super duros.
+6. Linha de pesquisa em Transferência de Calor e Massa. Temas tratados nesta linha: problemas inversos em transferência de calor (medição de parâmetros termofísicos - condutividade térmica, difusividade térmica, coeficiente de expansão, coeficiente de película. Desenvolvimento de técnicas de problemas inversos em convecção mista, bi e tridimensionais em condução de calor, investigação de campos de temperatura em ferramentas de usinagem. Desenvolvimento de técnicas de otimização para a estimação de parâmetros termofísicos; Meios Porosos (Simulação numérica de escoamentos em meios porosos, aplicação em tubos de calor. Desenvolvimento e análise de desempenho de tubos de calor. Determinação de propriedades termofísicas em meios porosos úmidos. Análise da embebição, drenagem e processos de transferência de massa em meios porosos, utilizando o processo de redes de percolação). Simulação numérica e experimentação aplicadas à dinâmica dos fluidos (Sistemas de gotejamento, mudança de fase e radiação. Análise experimental de fenômenos de cavitação, de Processo de aspersão de gotas, de processo de gotejamento. Simulação numérica de escoamentos turbulentos monofásicos e bifásicos, de processos de transferência de calor por convecção mista. Desenvolvimento de técnicas numéricas para análise de problemas de interação fluido-estrutura). Simulações numéricas em escoamentos complexos (Estudos de escoamentos compressíveis e incompressíveis turbulentos, cisalhantes e em sisalhamento livre, em altas velocidades - transônico e supersônico, com troca de calor, em meio reativos ou não, camada limite, camada de mistura, jatos impingentes em meio catalítico, combustão de hidrogênio-ar, otimização de leito catalíticos automotivos. Desenvolvimento de técnicas numéricas aplicadas para simular escoamentos compressíveis e incompressíveis. Simulação e otimização de projetos aerodinâmicos, elaboração de programas para desenvolvimento de desenhos de perfis. Estudos experimentais e numéricos de escoamentos multifásicos).
+7. Linha de pesquisa em Simulação e Otimização de Armazenadores Térmicos. Temas tratados nesta linha: Problemas de transferência de calor com mudança de fase aplicados à simulação do desempenho e resposta dinâmica de armazenadores térmicos. Análise do desempenho e comportamento termodinâmico de sistemas térmicos.
+8. Linha de pesquisa em Energia e Sistemas Térmicos. Temas tratados nesta linha: Análise experimental (Implementação de um ciclo superaquecido para teste de performance de compressores de refrigeração. Uso de câmara calorimétrica para o estudo das perdas de calor de compressores e medida indireta da vazão de refrigerante. Análise de performance de sistemas de aquecimento de água usando queimador a óleo diesel. Uso de medidores do tipo Venturi para medida de vazão de refrigerante em sistemas de refrigeração. Análise da influencia do teor de óleo em mistura com fluidos refrigerantes sobre as propriedades termodinâmicas e medida de vazão mássica. Controle digital de dispositivos de expansão usando lógica difusa (fuzzy logic). Determinação experimental das características transientes no resfriamento continuo de invólucros por aspersão de água gelada). Modelagem e simulação (Modelagem semi-empirica de componentes e sistemas HVAC tais como compressores, válvulas de expansão, condensadores, evaporadores. Dados meteorológicos para simulação de carga térmica. Cálculo computacional da carga térmica de zonas climatizadas para o projeto de sistemas de ar-condicionado. Simulação do consumo energético de freezers comerciais para o resfriamento e congelamento de carnes. Modelagem termodinâmica de misturas óleo-refrigerante). Projeto e otimização de processos industriais (Estudo do uso energético em cadeias de frio na indústria de alimentos. Projeto e otimização de processo de resfriamento continuo de suco de frutas. Retrofitting de sistemas de refrigeração comerciais. Avaliação energética e ambiental do impacto na substituição e reciclagem energética de CFC's).
+Com a intensificação das atividades de pesquisa, foi possível iniciar o Doutorado em Engenharia Mecânica no segundo semestre de 1994, mantendo-se as mesmas linhas de concentração anteriormente definidas, embora os docentes têm inserido novos projetos que envolvem o que há de mais relevante na ciência moderna, inclusive projetos multidisciplinares, a saber:
+a) uso intensivo de técnicas relacionadas à ciência da computação em temas diversos como, por exemplo, turbulência, métodos numéricos, processamento paralelo, modelagem matemática de problemas complexos de dinâmica dos fluidos (interação fluido-estrutura, bioengenharia, dentre outros), otimização de sistemas mecânicos complexos (impacto, meta-modelos, algoritmos genéticos, técnicas evolutivas em geral, otimização de forma), solução de problemas inversos em transferência de calor, identificação de sistemas dinâmicos, etc.
+b) uso intensivo de técnicas de automação e controle, com vistas à solução de problemas de dinâmica de sistemas mecânicos (controle passivo e ativo de vibrações), estudo de sistemas mecatrônicos (robótica, fabricação assistida por computador, etc), estudo de sistemas adaptativos (sistemas flexíveis com cerâmicas piezelétricas, filmes PVDF).
+c) interesse por temas multidisciplinares como, por exemplo, a tribologia, que envolve a engenharia mecânica (física do contato, mecânica dos sólidos, instrumentação e análise de sinais) e engenharia e ciência dos materiais (processamento e caracterização de novos materiais, estudo das superfícies de contato). Salienta-se que o Programa de Pós-graduação em Engenharia Mecânica da UFU é pioneiro nesta iniciativa.
+d) uso de técnicas de monitoramento de parâmetros de processos de fabricação via sinais de vibração, forças de usinagem, potência de acionamento das máquinas e sinais de emissão acústica (EA) durante a usinagem. Um aspecto que também merece destaque é a utilização de técnicas de métodos inversos para encontrar soluções de problemas que envolvem geração de calor em processos de usinagem e de soldagem, com destaque para os processos de torneamento e furação.
+Todos os aspectos acima mencionados são facilmente identificados através das dissertações de mestrado e teses de doutorado do programa, assim como pela produção intelectual e os projetos de pesquisa apresentados neste relatório, financiados pelas agências de fomento ou por empresas parceiras em pesquisas e desenvolvimento tecnológico.
+Com a mudança do Regimento Geral da UFU em 1999, o DEEME passou ao status de Faculdade – Faculdade de Engenharia Mecânica / FEMEC, sendo necessário então definir uma nova organização interna, visto que ocorreu a migração de docentes e técnicos de outros departamentos para a FEMEC.
+Assim, mantendo o mesmo espírito inicial do DEEME de que o eficiente desenvolvimento da pesquisa e da extensão pressupõe que os pesquisadores, técnicos e os recursos de infraestrutura de laboratórios sejam organizados em grupos que tenham afinidade de linhas de atuação, a estrutura organizacional passou a ser formada por quatro grandes áreas, agora com a denominação “Núcleos”.
+Conforme o Regimento Interno da FEMEC, “o Núcleo é o órgão com estrutura exclusivamente acadêmica, com atribuições de orientar, supervisionar e coordenar os projetos de pesquisa e extensão de uma determinada área de especialização da FEMEC”. Sendo de sua competência: “I - desenvolver e executar projetos de pesquisa, de extensão e de prestação de serviços; II - propor a distribuição de disciplinas na área de sua competência; III - propor, através de seus professores, disciplinas nos cursos de pós-graduação lato-sensu, de extensão, de especialização e de aperfeiçoamento; IV - desenvolver programas de iniciação científica envolvendo estudantes de graduação; V - desenvolver programas de estágio que não estejam diretamente vinculados aos cursos de graduação; VI - supervisionar os laboratórios de ensino e pesquisa; e VII - coordenar o trabalho dos servidores nele alocados”.
+Na organização inicial da FEMEC foram definidos os seguintes Núcleos, a saber, Núcleo de Fabricação, Núcleo de Térmica e Fluidos, Núcleo de Tribologia e Materiais, e Núcleo de Projetos e Sistemas Mecânicos.
+Com a criação dos Cursos de Graduação em Engenharia Mecatrônica, aprovado em 2003, e de Engenharia Aeronáutica, aprovado em 2009, novos docentes e técnicos administrativos passaram a integrar a equipe já existente na FEMEC. Alguns deles, por não existir um Núcleo que tivesse afinidade com suas linhas de atuação, foram alocados no Núcleo de Projetos e Sistemas Mecânicos.
+Posteriormente, em 2013, houve a criação do Núcleo de Automação e Sistemas com o objetivo de orientar, supervisionar e coordenar os projetos de pesquisa e extensão na área de Controle e Automação aplicada à engenharia mecânica, mecatrônica e aeronáutica. A criação desse Núcleo se justificou pela necessidade de aumentar a competência da FEMEC em automação e controle, proporcionando com que se possam focar mais esforços no desenvolvimento de pesquisas e atividades nessa área. O controle e automação de sistemas são temas muito amplos capazes de serem utilizados em todos os outros Núcleos da FEMEC e não se limitando a eles. Dessa maneira, se estimula o intercâmbio entre as áreas de pesquisa hoje existentes, fomentando a integração e criando vínculos maiores entre elas.
+No quesito extensão, a FEMEC apresenta diversas iniciativas como o Aerodesign – Equipe de Desenvolvimento de Protótipos Aeronáuticos, Mini-Baja – Equipe de Desenvolvimento de Veículos Terrestres, EDRoM – Equipe de Desenvolvimento de Robótica Móvel, META – Empresa Júnior da FEEMC, PET – Programa de Educação Tutorial, dentre outras.
+No ano de 2019 a FEMEC mudou para o campus do Glória e, então, passa a ter um espaço mais adequado para atender as demandas de inovação tecnológica atuais.
+Com a criação do FEMECMaker será estimulado o inter relacionamento entre as disciplinas da graduação relacionadas aos três cursos e cinco Núcleos, bem como será fomentado o surgimento de novas empresas, prestação de serviços à comunidade UFU e externas, bem como auxiliar pesquisas científicas.
+
+1.3. Organização da proposta
+	
+	Esta proposta foi organizada da seguinte maneira, a saber, Resumo, Introdução, Justificativa, Fundamentação Teórica, Objetivo Geral, Metodologia, Acompanhamento E Avaliação Do Projeto, Resultados Esperados e Referências apresentam uma proposta sobre a implantação do Laboratório FEMECMaker na UFU campus Glória. Está presente também a planta baixa e fotografias do ambiente que receberá o Laboratório FEMECMaker.
+2. JUSTIFICATIVA
+A FEMEC/UFU apresenta em seu planejamento estratégico a criação de um ambiente de ensino voltado para as novas tendências e práticas pedagógicas visando aprimorar as habilidades e competências dos discentes, bem como sua formação ética e cidadã, buscando desenvolver indivíduos com maior capacidade crítica e técnica para o desenvolvimento socioeconômico local e fortalecer os arranjos produtivos, sociais e culturais locais. 
+Com o intuito de atingir esse objetivo, as Metodologias Ativas (MA) apontam para a possibilidade de transformar aulas em experiências de aprendizagem mais vivas e significativas para os estudantes da atual geração, os quais estão inseridos em uma cultura de Tecnologias da Informação e Comunicação (TICs), cujas expectativas em relação ao ensino, aprendizagem, ao próprio desenvolvimento e formação são diferentes do que expressavam gerações anteriores.
+Nesse sentido, o planejamento do campus Glória idealiza a criação da sala de práticas pedagógicas, também conhecida como sala de aula invertida, onde o layout desse ambiente será diferente de uma sala de aula convencional, possibilitando o uso de diferentes práticas pedagógicas.
+Dessa forma, destacando a importância de inovar no ensino, a criação do laboratório FEMECMaker do campus Glória será uma ferramenta primordial para o fortalecimento da cultura “learning by doing” na unidade.
+No contexto que se encontra o município de Uberlândia, afirma-se que a UFU tem um vasto trabalho para a formação e capacitação da população local, que é imprescindível sua consolidação, neste município, enquanto instituição de ensino técnico e tecnológico. O desafio é elevar a escolaridade, melhorar a empregabilidade da região, bem como inseri-la num processo de reflexão produtiva e social para que os novos ciclos produtivos advindos da nova revolução industrial (Economia 4.0) possam ser profissionalizados no curto e médio prazo. Então, a criação do FEMECMaker proporcionará um fortalecimento com a comunidade interna e externa como um todo, seja pelo incentivo à cultura do “learning by doing”, seja pela possibilidade de prototipação de soluções que atualmente é de difícil acesso.
+Em primeiro lugar, destaca-se que a FEMEC/UFU já possui um relacionamento estreito com a comunidade na qual a unidade está inserida, visto que há várias parcerias e atividades de extensão, pesquisa e extensão citadas anteriormente (Petrobrás, Embraer, CNPq etc.) já atingem a sociedade. Ainda, vale lembrar que a FEMEC/UFU possui várias iniciativas e práticas pontuais com foco na comunidade interna e externa.
+Assim, com a criação do FEMECMaker o laço entre o FEMEC/UFU e a comunidade tem grande potencial de fortalecimento e ampliação, pois o número de possibilidades de atividades possíveis de serem realizadas aumentarão exponencialmente. 
+Além disso, ao se trabalhar com a comunidade atividades que desenvolvam a criatividade, capacidade de criação, tangibilização/materialização das ideias e da própria cultura do “learning by doing” faz com que o público alvo tenha um maior grau de pertencimento à comunidade UFU, assim, fortalecendo e ampliando o envolvimento com a comunidade em geral.
+3. FUNDAMENTAÇÃO TEÓRICA
+3.1 Metodologias Ativas de Ensino
+Metodologias Ativas apontam para a possibilidade de transformar aulas em experiências de aprendizagem mais vivas e significativas para estudantes, de uma nova geração, inserida em cultura de Tecnologias da Informação e Comunicação (TICs), cujas expectativas em relação ao ensino, aprendizagem, ao próprio desenvolvimento e formação são diferentes do que expressavam gerações anteriores.
+Metodologias Ativas se caracterizam pela inter-relação entre educação, cultura, sociedade, política e escola, sendo desenvolvida por meio de métodos ativos e criativos, centrados na atividade do aluno com a intenção de propiciar a aprendizagem. Todavia, percorrer esse novo caminho traz inseguranças ao professor, que deixa sua zona de conforto, deixa de personificar o conhecimento e passa a ser parceiro nas interações e relações com o aluno. Nessa nova ótica do trabalho docente, ensinar significa criar situações para despertar a curiosidade do aluno e lhe permitir pensar o concreto, conscientizar-se da realidade, questioná-la e construir conhecimentos para transformá-la, superando a ideia de que o ensino é sinônimo de transferir know-how.
+3.1.1 Tipos de metodologias ativas
+De acordo com Berbel (2011), há diversos tipos de metodologias ativas bem como variadas formas de aplicação, que potencializa a atividade de aquisição de conhecimento dos alunos. Direcionando a abordagem às suas tipologias, inicia-se a fundamentação sobre o estudo de caso, que é considerado um tipo de metodologia ativa e que é habitualmente empregado em instituições do ensino superior e subsequentemente em variados cursos que estão introduzidos nesse ambiente. A utilização da metodologia de estudo de caso, permite o estudante analisar os problemas em questão e auxilia na tomada de decisões. 
+Há uma tipologia de metodologias ativas, denominada como Método de projetos. Segundo Berbel (2011) essa categoria pode ser correlacionada às práticas de ensinamento em instituições de ensino superior, assim como na área de pesquisa e extensão. Essa metodologia como objetivo combater as ficções disponíveis nas escolas, facilitando a proximidade do contexto acadêmico com o da vida real, modificando a temática escolar e transformando em um problema real, ocorrendo a criação de projetos. Os mesmos autores complementam que na metodologia de projetos, os estudantes produzem uma narrativa que contenha todos os dados práticos e teóricos concebidos no decorrer do processo, no qual é finalizado por meio da entrega de uma solução do problema constatado. 
+O terceiro tipo de metodologia fundamentado é a Pesquisa científica. Esse tipo de metodologia é uma categoria utilizada em instituições de ensino superior, que é o enfoque da presente pesquisa. Desenvolvem-se trabalhos de conclusão de curso, iniciação científica, projetos de extensão, dentre outros. É uma prática relevante, principalmente em universidades, que possibilita aos estudantes desviar do senso comum que os acompanha nessa fase, promovendo a aquisição de conhecimento com bases científicas e consequentemente um nível de complexidade mais alto. A utilização desse tipo de metodologia faz com que os estudantes detenham de perspicácia, assim como maior percepção em tomadas de decisões oportunizando a realização de transformações premeditadas (Berbel, 2011).
+Aborda-se mais um tipo de metodologia ativa que é a aprendizagem baseada em problemas, sendo essa também denominada por seu termo em inglês “Problem Based Learning” ou PBL e geralmente é o método mais usual (Berbel, 2011). Essa categoria foi estreada no Brasil primeiramente no ensino superior em cursos de Medicina, a qual se torna distinta das propostas exibidas anteriormente por ter conforme Berbel (2011, p.32) “como o eixo principal do aprendizado técnico-científico numa proposta curricular”.
+3.2 Espaço Maker
+Na Educação, o movimento maker tem se destacado na criação de espaços chamados FabLab (laboratórios de fabricação ou laboratórios fabulosos), laboratórios experimentais e “Makerspace”. Para levar esse conceito para a escola é necessário seguir os seguintes passos:
+● Crie um projeto que motive os estudantes a acreditar que eles podem fazer qualquer coisa;
+● Projete um Espaço Maker (que pode começar com ferramentas de eletrônica e kits educacionais muito simples e que com o tempo pode ir adquirindo máquinas); 
+● Crie plataformas sociais (online e/ou offline) para colaboração entre alunos, professores e a comunidade; 
+● Crie um espaço comunitário para a exposição dos trabalhos “mão na massa” realizados, incentivando mais alunos e professores a participar; 
+● Desenvolva contextos educacionais que relacionem a prática do fazer a conceitos formais e teorias para apoiar a descoberta e a exploração, para introduzir novas ferramentas e, ao mesmo tempo, novos olhares para os processos do aprender; 
+● Desenvolva em todos os participantes desse processo, de modo integral, a capacidade, criatividade e confiança para se tornarem agentes de mudança em suas vidas e em suas comunidades. 
+
+O movimento maker chega ao Brasil replicando os modelos dos FabLab como espaços de disseminação da cultura maker, incentivando a criação e a democratização do acesso a ferramentas de prototipagem digitais ou com alguns projetos inspirados na proposta. 
+De acordo com Silva e Merkle (2016), existem quatro conceitos distintos de fabricação digital que estão baseados em ações e projetos nos contextos educacionais brasileiros:
+
+1. Conceito tradicional de FabLab: (laboratórios de fabricação ou laboratórios fabulosos): identifica espaços compartilhados de prototipação e fabricação digital, constituindo-se na marca mais divulgada desta modalidade de arranjo de equipamentos à disposição de comunidades. Mesmo em um contexto brasileiro, o termo Fab Lab foi adotado largamente para identificar os espaços; 
+2. Conceito Maker Media Inc.: Maker Faire®, marca comercial pertencente à Maker Media Inc, representa inicialmente uma rede mundial de eventos com enorme impacto na divulgação e popularização do assim chamado movimento maker. 
+3. Laboratórios Experimentais: o termo utilizado para identificar vários espaços de design, como “media labs, hackerspaces, FabLabs” como um contraponto à ideologia californiana e os conceitos da Maker Media Inc. A abordagem de laboratórios experimentais propõe que espaços de design sejam uma alternativa aos laboratórios comerciais.
+4. O FabLearn: proposta de Blikstein para associar computadores, tecnologias e construção na educação. O FabLearn é baseado na ideia de educação progressista, especialmente em trabalhos como os de Papert para a democratização de computadores na Educação e nas ideias de Paulo Freire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 OBJETIVO GERAL
+
+A proposta apresentada visa a criação do Laboratório FEMECMaker no campus Glória que possa atender a demandas da comunidade acadêmica e também das comunidades de Uberlândia e região do triângulo mineiro. Para tanto, o campus se propõe a integrar e incrementar sua estrutura de laboratórios para montar o Laboratório FEMECMaker para auxiliar em iniciativas de pesquisa e projetos de ensino de alunos, além de disponibilizar equipamentos e serviços que possam ser utilizados pela comunidade em projetos de extensão. 
+Atualmente na FEMEC/UFU ocorrem diversas iniciativas de orientação de projetos interdisciplinares que, aliados ao FEMECMaker, proporcionarão melhores condições materiais de se implementar tais projetos idealizados. Além disso, o FEMECMaker será um instrumento fundamental para a aproximação da comunidade externa ao cotidiano do campus Glória, de modo a despertar seu interesse em ingressar em seus cursos e projetos ou participar de algum dos programas de empreendedorismo para desenvolver seu modelo de negócio.
+Também, a criação do FEMECMaker é um recurso essencial para a criação de uma estrutura completa de Inovação e Empreendedorismo da FEMEC/UFU campus Glória para fomentar e ajudar no desenvolvimento de novos negócios e, consequentemente, na geração de novos empregos, novas tecnologias e novos mercados na comunidade.
+Os objetivos específicos na criação do Laboratório FEMECMaker Sabará são:
+Incentivar a aprendizagem dos alunos através da cultura “learning by doing”;
+Ofertar ferramentas para o desenvolvimento de projetos de ensino, pesquisa e extensão;
+Estimular estudantes e servidores a proporem e desenvolverem projetos e estudos em ciência, tecnologia e inovação;
+Proporcionar recursos e infraestrutura para a condução de projetos interdisciplinares voltados para a criação de produtos e serviços inovadores;
+Possibilitar à comunidade interna e externa ao campus acesso a tecnologias que possam auxiliar na prototipagem e criação de soluções em inovação;
+Incentivar a cultura do “faça você mesmo” na criação de produto mínimo viável (MVP) utilizando ferramentas de prototipagem rápida;
+Apoiar e fortalecer o ecossistema de empreendedorismo e inovação da unidade.
+5. METODOLOGIA
+A implantação do Laboratório FEMECMaker está dividida nas seguintes etapas com uma estimativa total de implantação de 4 meses após a chega dos equipamentos na unidade. 
+Etapas:
+1. Aquisição de Equipamentos: Nesta atividade serão orçados e adquiridos os equipamentos para o funcionamento do espaço maker.
+2. Organização dos espaços: Organização da sala e equipamentos para melhor acomodação na sala.
+3. Configuração de infraestrutura: Configuração de equipamentos e infraestruturas de rede, internet e acesso.
+4. Elaboração de política de utilização dos espaços: Elaboração de conjunto de diretrizes e regulamentações sobre o uso do espaço para comunidades interna e externa.
+5. Treinamento da equipe gestora, alunos e estagiário(s) : Treinamento da equipe gestora, alunos e estagiário do espaço para manuseio dos equipamentos e atendimento aos usuários do espaço.
+A utilização deste espaço será organizada a partir de uma alocação prévia de turnos para diferentes grupos de atividades, seguida de agendamentos de horários para participantes de cada grupo.
+A política de alocação de espaços deverá definir em que turnos (manhã, tarde e noite) e dias da semana o espaço estará disponível para agendamento de horário para os seguintes grupos:
+Atividades de ensino para cursos superiores
+Atividades de ensino para cursos técnicos
+Projetos de pesquisa
+Projetos de extensão
+Utilização de equipamentos pela comunidade externa
+
+Os equipamentos solicitados para a implantação do FEMECMaker serão instalados nas salas XXX. 
+A equipe de implementação do laboratório FEMECMaker é composta por um total de XX servidores efetivos. O grupo criado para administrar o Laboratório FEMECMaker na FEMEC/UFU campus Glória possui caráter multidisciplinar e estratégico para fomento da cultura “Learning by Doing” no campus e fortalecimento da cultura empreendedora e DIY (“Do It Yourself”).
+Também há a equipe de apoio formada por pelo menos XX discentes regularmente matriculados em 2020 dos Cursos de Graduação da FEMEC/UFU seguindo a seguinte proposta:
+XX aluno(s) do curso de Engenharia Mecânica;
+XX aluno(s) do curso de Engenharia Mecatrônica;
+XX aluno(s) do curso de Engenharia Aeronáutica.
+Os alunos selecionados para atuarem no FEMECMaker possuem as seguintes atribuições gerais:
+Ser habilitado e capacitado para manusear o maquinário do laboratório, podendo o aluno se especializar em determinado equipamento;
+Instruir os utilizadores do FEMECMaker com o intuito de explicar-lhes a maneira correta de usufruir de um equipamento;
+Manter a organização do espaço de trabalho;
+	Também, planeja-se que cada aluno tenha uma atribuição específica relativa à sua área de atuação e preparação profissional.
+Além disso, a FEMEC/UFU disponibilizará como contrapartida um estagiário de extensão para garantir o funcionamento do FEMECMaker durante pelo menos dois turnos de funcionamento.
+ O estagiário do FEMECMaker,  tem as seguintes funções:
+Ser habilitado e capacitado para manusear todo o maquinário do laboratório;
+Instruir os utilizadores do FEMECMaker com o intuito de explicar-lhes a maneira correta de usufruir de um equipamento;
+Ser capaz de criar um modelo computacional 2D ou 3D para prototipação.
+Manter a organização do espaço de trabalho;
+Atualizar e controlar o estoque de insumos do FEMECMaker;
+Administrar e monitorar a agenda ou fila de projetos a serem executados;
+Auxiliar usuários do FEMECMaker em projetos técnicos;
+Auxiliar na implementação e manutenção das estratégias de marketing de divulgação e captação de novos projetos voltadas tanto para a comunidade interna, quanto externa ao campus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. ACOMPANHAMENTO E AVALIAÇÃO DO PROJETO DURANTE A EXECUÇÃO 
+
+
+O acompanhamento de execução do cronograma será realizado pelo Coordenador do Projeto a partir de um  sistema de divisão de cada atividade proposta em tarefas menores com prazos e responsáveis definidos. Esse acompanhamento será realizado diariamente pelo Coordenador e quinzenalmente pela equipe gestora pela implantação do Laboratório FEMECMaker.
+O resultados observados serão compilados através de relatórios parciais a serem compartilhados mensalmente com a pró-reitoria de Extensão da UFU.
+
+
+
+
+
+7. RESULTADOS ESPERADOS:
+Com a criação do FEMECMaker haverá um grande reforço à cultura “learning by doing”.
+Após a implementação do projeto, é planejada uma nova etapa de monitoramento que visa monitorar os resultados da criação desse novo espaço. Tal acompanhamento, a ser realizado semestralmente, deverá se basear nos seguintes indicadores:
+Número de projetos realizados no Laboratório FEMECMaker e dentre eles, identificar se é de caráter de ensino, pesquisa e extensão;
+Número de atendimentos à comunidade externa no Laboratório FEMECMaker;
+Número de alunos impactados pelo FEMECMaker;
+Número de docentes proponentes de projetos a serem executados no FEMECMaker.
+Espera-se que, a partir de um monitoramento periódico de tais indicadores, alinhado a um conjunto criterioso de metas a ser estabelecido, o ambiente possa contribuir intensamente para o campus Glória. É esperado um fortalecimento da cultura empreendedora na região, impulsionado pela ampliação de iniciativas nesse sentido promovidas pelo campus, além de todo o ecossistema de empreendedorismo e inovação proporcionado pelos programas de incubação de empresas.
+Os equipamentos proporcionados pelo Laboratório FEMECMaker devem reforçar no campus o uso de metodologias de aprendizagem Learning by doing, e incrementarem iniciativas multidisciplinares, resultando em um maior volume de produção intelectual e soluções inovadoras no campus.
+Por fim, espera-se que, a partir dos esforços em divulgação do espaço e maior aproximação da comunidade externa, a FEMEC/UFU possa contribuir mais ativamente para o arranjo produtivo local e se posicionar como um ambiente inovador que consiga atender diferentes demandas de potenciais parceiros.
+
+
+
+8. REFERÊNCIAS BIBLIOGRÁFICAS
+BERBEL, N. A. N. (2011). As metodologias ativas e a promoção de autonomia aos estudantes. Semina: Ciências Sociais e Humanas, Londrina, v. 32, n. 1, p. 25-40, jan./jun.
+
+BLIKSTEIN, P. Viagens em Tróia com Freire:a tecnologia como um agente de emancipação. In: Revista Educação e Pesquisa (USP). Volume 42, n.3, 2016.
+
+DATAVIVA. Governo de Minas Gerais. Agência de Promoção de Investimento e Comércio Exterior de Minas Gerais (INDI). Relatório 2017 Disponível: http:// http://dataviva.info/pt/location/4mg030018/wages. Acesso em 11 de Maio de 2020.
+
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. IBGE. Disponível em http:// https://cidades.ibge.gov.br/brasil/mg/sabara/panorama. Acesso em 11 de Maio de 2020
+________. Catálogo. Disponível em: https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=449409&view=detalhes. Acesso em 13 de Maio de 2020.
+
+LIBÂNO, Clarice de Assis. Mapeamento sociocultural de Sabará e suas regionais. Volume 2. Sabará, 2009.
+
+(MIT FabLab,2020) Disponível em: <http://fab.cba.mit.edu/> Acesso em: 27 mai. 2020.
+
+SILVA, Barbosa E, R; MERKLE, L E. (2016) Perspectivas educacionais FabLearn: conceitos e práticas maker no Brasil. In: 1a. Conferência FabLearn Brasil, São Paulo.
